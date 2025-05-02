@@ -1,0 +1,24 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babel.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0BooM/battleship.git"
+  },
+  "keywords": [
+    "battleship",
+    "game",
+    "ships"
+  ],
+  "author": "0BooM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0BooM/battleship/issues"
+  },
+  "homepage": "https://github.com/0BooM/battleship#readme"
+}
